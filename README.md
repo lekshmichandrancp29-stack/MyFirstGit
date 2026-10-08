@@ -1,2 +1,2 @@
-# MyFirstGit
-My First Git Project
+# MyFirstGit 
+ My First Git hub Project
